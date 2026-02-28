@@ -91,8 +91,8 @@ Aplicando:
 ## 📂 Estructura del repositorio
 
 - `/HU_1/`
-- `/HU_"/`
-- `/HU_#/`
+- `/HU_2/`
+- `/HU_3/`
   
 ---
 
